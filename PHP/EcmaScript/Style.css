@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: mintcream;
+}
+
+
+
+footer{
+    width: 100%;
+    position:absolute;
+    bottom:0;
+}
+footer input{
+    width: 100%;
+}
