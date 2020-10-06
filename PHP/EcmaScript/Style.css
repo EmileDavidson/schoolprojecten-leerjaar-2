@@ -16,3 +16,12 @@ footer{
 footer input{
     width: 100%;
 }
+
+@keyframes marquee1 {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(0, -100%);
+  }
+}
