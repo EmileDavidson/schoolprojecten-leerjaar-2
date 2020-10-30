@@ -1,0 +1,32 @@
+﻿  ConsoleApplication1.cpp
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\ConsoleApplication1.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\ConsoleApplication1.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\School.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\School.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\School.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\Course.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\Course.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\School.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\ConsoleApplication1.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\ConsoleApplication1.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\ConsoleApplication1.cpp(21,80): warning C4305: 'argument': truncation from '__int64' to 'long'
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\ConsoleApplication1.cpp(21,68): warning C4309: 'argument': truncation of constant value
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\ConsoleApplication1.cpp(40,158): warning C4305: 'argument': truncation from '__int64' to 'int'
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\ConsoleApplication1.cpp(40,130): warning C4309: 'argument': truncation of constant value
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\ConsoleApplication1.cpp(41,158): warning C4305: 'argument': truncation from '__int64' to 'int'
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\ConsoleApplication1.cpp(41,130): warning C4309: 'argument': truncation of constant value
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\ConsoleApplication1.cpp(42,158): warning C4305: 'argument': truncation from '__int64' to 'int'
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\ConsoleApplication1.cpp(42,130): warning C4309: 'argument': truncation of constant value
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\ConsoleApplication1.cpp(43,158): warning C4305: 'argument': truncation from '__int64' to 'int'
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\ConsoleApplication1.cpp(43,130): warning C4309: 'argument': truncation of constant value
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\ConsoleApplication1.cpp(44,158): warning C4305: 'argument': truncation from '__int64' to 'int'
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\ConsoleApplication1.cpp(44,130): warning C4309: 'argument': truncation of constant value
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\ConsoleApplication1.cpp(45,158): warning C4305: 'argument': truncation from '__int64' to 'int'
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\ConsoleApplication1.cpp(45,130): warning C4309: 'argument': truncation of constant value
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\ConsoleApplication1.cpp(46,158): warning C4305: 'argument': truncation from '__int64' to 'int'
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\ConsoleApplication1.cpp(46,130): warning C4309: 'argument': truncation of constant value
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\ConsoleApplication1.cpp(47,158): warning C4305: 'argument': truncation from '__int64' to 'int'
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\ConsoleApplication1.cpp(47,130): warning C4309: 'argument': truncation of constant value
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\ConsoleApplication1.cpp(48,158): warning C4305: 'argument': truncation from '__int64' to 'int'
+D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\ConsoleApplication1\ConsoleApplication1.cpp(48,130): warning C4309: 'argument': truncation of constant value
+  ConsoleApplication1.vcxproj -> D:\Projecten\Repositories\schoolprojecten-leerjaar-2\c++\EindOpdracht\Debug\ConsoleApplication1.exe
